@@ -3,7 +3,9 @@
 
 ## The Game story is directed by a story.json file placed in the build directory
 ### The build directory is where the executable is placed after running 
-```make 
+```
+make 
+
 ```
 
 ### sample story.json
